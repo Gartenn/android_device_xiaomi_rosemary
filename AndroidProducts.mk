@@ -8,6 +8,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/voltage_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    voltage_rosemary-user \
-    voltage_rosemary-userdebug \
-    voltage_rosemary-eng
+    lineage_rosemary-user \
+    lineage_rosemary-userdebug \
+    lineage_rosemary-eng
