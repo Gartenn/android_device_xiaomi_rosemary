@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/voltage_rosemary.mk
+    $(LOCAL_DIR)/nitrogen_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_rosemary-user \
-    lineage_rosemary-userdebug \
-    lineage_rosemary-eng
+    nitrogen_rosemary-user \
+    nitrogen_rosemary-userdebug \
+    nitrogen_rosemary-eng
