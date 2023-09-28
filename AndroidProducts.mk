@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/nitrogen_rosemary.mk
+    $(LOCAL_DIR)/syberia_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    nitrogen_rosemary-user \
-    nitrogen_rosemary-userdebug \
-    nitrogen_rosemary-eng
+    syberia_rosemary-user \
+    syberia_rosemary-userdebug \
+    syberia_rosemary-eng
