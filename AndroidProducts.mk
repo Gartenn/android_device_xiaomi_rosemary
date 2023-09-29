@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/syberia_rosemary.mk
+    $(LOCAL_DIR)/droidx_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    syberia_rosemary-user \
-    syberia_rosemary-userdebug \
-    syberia_rosemary-eng
+    droidx_rosemary-user \
+    droidx_rosemary-userdebug \
+    droidx_rosemary-eng
