@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/droidx_rosemary.mk
+    $(LOCAL_DIR)/xdroid_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    droidx_rosemary-user \
-    droidx_rosemary-userdebug \
-    droidx_rosemary-eng
+    xdroid_rosemary-user \
+    xdroid_rosemary-userdebug \
+    xdroid_rosemary-eng
