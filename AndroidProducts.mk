@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/spark_rosemary.mk
+    $(LOCAL_DIR)/superior_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    spark_rosemary-user \
-    spark_rosemary-userdebug \
-    spark_rosemary-eng
+    superior_rosemary-user \
+    superior_rosemary-userdebug \
+    superior_rosemary-eng
