@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_rosemary.mk
+    $(LOCAL_DIR)/derp_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_rosemary-user \
-    superior_rosemary-userdebug \
-    superior_rosemary-eng
+    derp_rosemary-user \
+    derp_rosemary-userdebug \
+    derp_rosemary-eng
