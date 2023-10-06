@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_rosemary.mk
+    $(LOCAL_DIR)/cipher_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_rosemary-user \
-    derp_rosemary-userdebug \
-    derp_rosemary-eng
+    cipher_rosemary-user \
+    cipher_rosemary-userdebug \
+    cipher_rosemary-eng
