@@ -61,4 +61,4 @@ wifi.direct.interface=p2p0
 ro.hardware.wlan.dbs=0
 
 # MAINTAINER
-ro.spos.maintainer=Macropyre
+ro.derp.maintainer=Macropyre
