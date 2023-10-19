@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/derp_rosemary.mk
+    $(LOCAL_DIR)/lineage_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    derp_rosemary-user \
-    derp_rosemary-userdebug \
-    derp_rosemary-eng
+    lineage_rosemary-user \
+    lineage_rosemary-userdebug \
+    lineage_rosemary-eng
