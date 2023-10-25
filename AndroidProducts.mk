@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/aosp_rosemary.mk
+    $(LOCAL_DIR)/tequila_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    aosp_rosemary-user \
-    aosp_rosemary-userdebug \
-    aosp_rosemary-eng
+    tequila_rosemary-user \
+    tequila_rosemary-userdebug \
+    tequila_rosemary-eng
