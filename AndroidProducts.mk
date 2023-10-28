@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/banana_rosemary.mk
+    $(LOCAL_DIR)/aicp_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    banana_rosemary-user \
-    banana_rosemary-userdebug \
-    banana_rosemary-eng
+    aicp_rosemary-user \
+    aicp_rosemary-userdebug \
+    aicp_rosemary-eng
