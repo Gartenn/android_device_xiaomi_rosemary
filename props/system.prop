@@ -61,4 +61,4 @@ wifi.direct.interface=p2p0
 ro.hardware.wlan.dbs=0
 
 # MAINTAINER
-ro.baikal.maintainer=macropyre
+ro.banana.maintainer=macropyre
