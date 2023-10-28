@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/tequila_rosemary.mk
+    $(LOCAL_DIR)/lineage_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    tequila_rosemary-user \
-    tequila_rosemary-userdebug \
-    tequila_rosemary-eng
+    lineage_rosemary-user \
+    lineage_rosemary-userdebug \
+    lineage_rosemary-eng
