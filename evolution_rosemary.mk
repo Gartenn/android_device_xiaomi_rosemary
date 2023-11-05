@@ -15,7 +15,7 @@ $(call inherit-product, vendor/afterlife/config/common_full_phone.mk)
 $(call inherit-product, device/xiaomi/rosemary/device.mk)
 
 PRODUCT_DEVICE := rosemary
-PRODUCT_NAME := afterlife_rosemary
+PRODUCT_NAME := evolution_rosemary
 PRODUCT_BRAND := Redmi
 PRODUCT_MODEL := Redmi Note 10S
 PRODUCT_MANUFACTURER := Xiaomi
@@ -27,6 +27,4 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 
 BUILD_FINGERPRINT := Redmi/rosemary/rosemary:12/SP1A.210812.016/V13.0.5.0.SFFTWXM:user/release-keys
 
-#CoreGapps
-AFTERLIFE_GAPPS := true
-AFTERLIFE_CORE := true
+TARGET_SUPPORTS_QUICK_TAP := true
