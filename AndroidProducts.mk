@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/superior_rosemary.mk
+    $(LOCAL_DIR)/droidx_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    superior_rosemary-user \
-    superior_rosemary-userdebug \
-    superior_rosemary-eng
+    droidx_rosemary-user \
+    droidx_rosemary-userdebug \
+    droidx_rosemary-eng
