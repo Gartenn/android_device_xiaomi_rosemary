@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/droidx_rosemary.mk
+    $(LOCAL_DIR)/spark_rosemary.mk
 
 COMMON_LUNCH_CHOICES := \
-    droidx_rosemary-user \
-    droidx_rosemary-userdebug \
-    droidx_rosemary-eng
+    spark_rosemary-user \
+    spark_rosemary-userdebug \
+    spark_rosemary-eng
